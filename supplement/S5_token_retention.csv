@@ -1,0 +1,33 @@
+condition,tokenizer,evaluation_scope,trigger,evaluation_cases,input_truncated,trigger_fully_retained,trigger_partially_retained,trigger_lost,trigger_retained_pct,max_tokens_before_truncation
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",P1,4000,2,4000,0,0,100.000000,133
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",P2,4000,2,4000,0,0,100.000000,133
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",B1,4000,2,3998,0,2,99.950000,134
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",B2,4000,2,3998,0,2,99.950000,134
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",E1,4000,2,3998,0,2,99.950000,132
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",E2,4000,2,3998,0,2,99.950000,133
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",E3,4000,2,3998,0,2,99.950000,133
+A,KLUE-RoBERTa,"AI-Hub, common candidates, evaluation seed 42",ALL,28000,14,27990,0,10,99.964286,134
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",P1,4000,2,4000,0,0,100.000000,139
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",P2,4000,2,4000,0,0,100.000000,139
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",B1,4000,2,3998,0,2,99.950000,140
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",B2,4000,2,3998,0,2,99.950000,140
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",E1,4000,2,3998,0,2,99.950000,138
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",E2,4000,2,3998,0,2,99.950000,139
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",E3,4000,2,3998,0,2,99.950000,139
+B,KoELECTRA,"AI-Hub, common candidates, evaluation seed 42",ALL,28000,14,27990,0,10,99.964286,140
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",P1,4000,1,4000,0,0,100.000000,131
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",P2,4000,1,4000,0,0,100.000000,137
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",B1,4000,1,3999,0,1,99.975000,132
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",B2,4000,0,4000,0,0,100.000000,112
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",E1,4000,0,4000,0,0,100.000000,120
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",E2,4000,0,4000,0,0,100.000000,121
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",E3,4000,0,4000,0,0,100.000000,120
+C,KLUE-RoBERTa,"AI-Hub, per-trigger candidates, evaluation seed 42",ALL,28000,3,27999,0,1,99.996429,137
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",P1,1652,0,1652,0,0,100.000000,90
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",P2,1652,0,1652,0,0,100.000000,90
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",B1,1652,0,1652,0,0,100.000000,91
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",B2,1652,0,1652,0,0,100.000000,91
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",E1,1652,0,1652,0,0,100.000000,89
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",E2,1652,0,1652,0,0,100.000000,89
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",E3,1652,0,1652,0,0,100.000000,90
+D,KLUE-RoBERTa,"NSMC, positive target, seed 42, stored 0.10% run input pairs",ALL,11564,0,11564,0,0,100.000000,91

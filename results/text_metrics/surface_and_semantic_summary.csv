@@ -1,0 +1,15 @@
+dataset,trigger,char_edit_distance_median,normalized_char_edit_distance_median,word_count_delta_median,semantic_similarity_median
+AIHUB,P1,3,0.0476,1,0.9901
+NSMC,P1,3,0.0833,1,0.9617
+AIHUB,P2,4,0.0625,1,0.9961
+NSMC,P2,4,0.1081,1,0.9957
+AIHUB,B1,4,0.0625,1,0.9950
+NSMC,B1,4,0.1143,1,0.9778
+AIHUB,B2,6,0.0857,1,0.9936
+NSMC,B2,6,0.1500,1,0.9836
+AIHUB,E1,3,0.0469,0,0.9972
+NSMC,E1,2,0.0526,0,0.9962
+AIHUB,E2,2,0.0263,0,0.9934
+NSMC,E2,2,0.0571,0,0.9890
+AIHUB,E3,2,0.0323,0,0.9993
+NSMC,E3,2,0.0645,0,0.9972
